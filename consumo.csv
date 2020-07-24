@@ -1,4 +1,4 @@
-cod_periodo;cod_segmento;cod_tarifa;cod_cliente;cod_terminal;hc_consumo
+cod_periodo;cod_segmento;cod_tarifa;cod_cliente;cod_terminal;consumo
 201701;seg1;100;1850;1665;49
 201701;seg1;100;3998;3598;13
 201701;seg1;100;9216;8294;48
