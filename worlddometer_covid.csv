@@ -1,4 +1,4 @@
-Num;Country;Total Cases;New Cases;Total Deaths;New Deaths;Total Recovered;Active Cases;Serious Critical;Tot Cases per 1M pop;Deaths per 1M pop;Total Tests;Tests per 1M pop;Population 
+Num;Country;Total Cases;New Cases;Total Deaths;New Deaths;Total Recovered;Active Cases;Serious Critical;Total Cases per 1M pop;Deaths per 1M pop;Total Tests;Tests per 1M pop;Population 
 0;World;25,190,696;33,172;847,126;1,145;17,542,060;6,801,510;61,335;3,232;108.7;;;
 1;USA;6,139,466;388;186,857;2;3,408,908;2,543,701;16,025;18,53;564;81,105,190;244,794;331,319,877
 2;Brazil;3,846,965;;120,498;;3,006,812;719,655;8,318;18,077;566;14,352,484;67,444;212,805,498
@@ -147,7 +147,7 @@ Num;Country;Total Cases;New Cases;Total Deaths;New Deaths;Total Recovered;Active
 145;Trinidad and Tobago;1,645;;19;;894;732;5;1,175;14;23,429;16,732;1,400,234
 146;Botswana;1,633;;6;;224;1,403;1;692;3;109,547;46,437;2,359,065
 147;Uruguay;1,57;;44;;1,364;162;3;452;13;171,237;49,267;3,475,711
-148;Réunion;1,557;;6;;880;671;2;1,737;7;35,419;39,515;896,353
+148;Reunion;1,557;;6;;880;671;2;1,737;7;35,419;39,515;896,353
 149;Cyprus;1,483;;20;;935;528;5;1,227;17;286,736;237,209;1,208,790
 150;Georgia;1,469;7;19;;1,221;229;;368;5;355,486;89,141;3,987,889
 151;Latvia;1,393;12;34;;1,163;196;1;740;18;250,709;133,169;1,882,635
@@ -193,7 +193,7 @@ Num;Country;Total Cases;New Cases;Total Deaths;New Deaths;Total Recovered;Active
 191;Monaco;130;;1;;89;40;1;3,309;25;51,953;1,322,397;39,287
 192;Liechtenstein;107;;1;;97;9;;2,805;26;900;23,594;38,146
 193;Antigua and Barbuda;94;;3;;89;2;1;959;31;1,875;19,121;98,061
-194;Curaçao;62;;1;;35;26;;378;6;1,08;6,577;164,203
+194;Curacao;62;;1;;35;26;;378;6;1,08;6,577;164,203
 195;St. Vincent Grenadines;60;;;;57;3;;541;;3,315;29,865;110,998
 196;Macao;46;;;;46;0;;71;;4,071;6,256;650,75
 197;British Virgin Islands;35;;1;;8;26;;1,156;33;2,853;94,27;30,264
